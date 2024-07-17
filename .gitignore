@@ -1,0 +1,14 @@
+
+
+# Environment and virtual environment directories
+.venv
+venv/
+ENV/
+env/
+*.env
+Include
+Lib
+Scripts
+pyvenv.cfg
+
+
